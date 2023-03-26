@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#center{
+
+   margin:0 auto 0;
+	display: flex; 
+	justify-content: center;"
+    	text-align:center;
+}
+
+#signup{
+	
+	text-align:center;
+}
+
